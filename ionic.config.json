@@ -1,0 +1,7 @@
+{
+  "name": "Dock",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
